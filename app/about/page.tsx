@@ -5,7 +5,7 @@ export function About()
     <div>
       
       <h1>Pons Nicolas</h1>
-      <h3>Je suis un full stack développeur</h3>
+      <h3>Je suis un full stack développeurr</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, 
         adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.</p>
       <div>
